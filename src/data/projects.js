@@ -46,6 +46,7 @@ const projects = [
     technologies: ['React', 'Node.js', 'JavaScript', 'MongoDB', 'WebSocket', 'AI'],
     slides: [
       { type: 'image', src: '/projects/zerocodedb/cover.png', alt: 'ZeroCodeDB visual builder' },
+      { type: 'video', src: '/projects/zerocodedb/demo.mp4', poster: '/projects/zerocodedb/cover.png' },
     ],
     liveUrl: '',
     repoUrl: '',
