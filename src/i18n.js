@@ -1,0 +1,122 @@
+export const translations = {
+  en: {
+    languageLabel: 'English',
+    nav: { home: 'Home', about: 'About', projects: 'Projects', contact: 'Contact' },
+    ctaViewProjects: 'View Projects',
+    ctaContact: 'Contact',
+    heroBadge: 'Azerbaijan State University of Oil and Industry — Information Technology',
+    heroTitle: 'Piriyev Tural — Full Stack Web Developer',
+    heroPitch:
+      'I build real-world applications with modern frontend and backend stacks, focusing on clean UI/UX, performance, and maintainable code.',
+    heroBullets: [
+      'Delivering full stack features with React, Tailwind CSS, Node.js, Express, SQL Server, and MongoDB.',
+      'Built authentication systems, dashboards, APIs, and database logic for startup projects.',
+      'IT instructor at TrainBrain, teaching IT and programming to different age groups with interactive methods.',
+    ],
+    aboutTitle: 'About',
+    aboutP1:
+      'I am a Full Stack Web Developer with a strong focus on modern web technologies and clean, scalable architectures. I have experience building real-world applications using both frontend and backend technologies.',
+    aboutP2:
+      'Alongside my academic background in Information Technology, I have worked on multiple personal and startup-related projects. I value clean UI/UX, performance, and maintainable code, with strong OOP fundamentals and SOLID practices, and I am constantly improving my skills through hands-on development. In my newer projects, I build OOP-driven web and desktop applications with clean architecture.',
+    skillsLabel: 'Skills',
+    skillsFrontend: 'Frontend: HTML, CSS, JavaScript, React, Tailwind CSS',
+    skillsBackend: 'Backend: PHP, C# (.NET), Node.js, Express.js',
+    skillsDb: 'Database: SQL Server, MongoDB',
+    skillsTools: 'Tools: Git, GitHub, Netlify, Postman',
+    experienceTitle: 'Work Experience',
+    contactTitle: 'Contact',
+    contactBody:
+      'Reach out for full stack web projects, collaborations, or questions about my work across React, Node.js, Express, and databases.',
+    copy: 'Copy',
+    copied: 'Copied!',
+    open: 'Open',
+    projectsTitle: 'Projects',
+    projectsBlurb:
+      'Expense tracking, startup platforms, and dashboard work that combine authentication, APIs, and data-driven UIs.',
+    live: 'Live',
+    code: 'Code',
+    openDetails: 'Open Details',
+    projectsCountLabel: 'projects',
+    footerLinks: { github: 'GitHub', linkedin: 'LinkedIn', contact: 'Contact' },
+  },
+  az: {
+    languageLabel: 'Azərbaycan',
+    nav: { home: 'Ana səhifə', about: 'Haqqımda', projects: 'Layihələr', contact: 'Əlaqə' },
+    ctaViewProjects: 'Layihələrə bax',
+    ctaContact: 'Əlaqə',
+    heroBadge: 'Azerbaijan State University of Oil and Industry — Information Technology',
+    heroTitle: 'Piriyev Tural — Full Stack Web Developer',
+    heroPitch:
+      'Müasir frontend və backend texnologiyaları ilə real tətbiqlər qururam; təmiz UI/UX, performans və saxlanıla bilən kod əsas prioritetlərimdir.',
+    heroBullets: [
+      'React, Tailwind CSS, Node.js, Express, SQL Server və MongoDB ilə full stack xüsusiyyətlər çatdırıram.',
+      'Startap layihələrində autentifikasiya, dashboard, API və verilənlər bazası məntiqi hazırlamışam.',
+      'TrainBrain-də IT təlimçisi kimi fərqli yaş qruplarına interaktiv üsulla dərs keçmişəm.',
+    ],
+    aboutTitle: 'Haqqımda',
+    aboutP1:
+      'Full Stack Web Developer olaraq müasir texnologiyalar və təmiz, miqyaslana bilən arxitekturalara fokuslanıram. Frontend və backend-də real layihə təcrübəm var.',
+    aboutP2:
+      'İnformasiya Texnologiyaları üzrə təhsilimlə yanaşı, şəxsi və startap layihələrində çalışmışam. Təmiz UI/UX, performans və saxlanıla bilən kodu önə çəkirəm, güclü OOP əsaslarım var və SOLID prinsiplərinə əməl edirəm, daim praktika ilə inkişaf edirəm. Yeni layihələrimdə OOP əsaslı veb və desktop tətbiqləri təmiz arxitektura ilə qururam.',
+    skillsLabel: 'Bacarıqlar',
+    skillsFrontend: 'Frontend: HTML, CSS, JavaScript, React, Tailwind CSS',
+    skillsBackend: 'Backend: PHP, C# (.NET), Node.js, Express.js',
+    skillsDb: 'Verilənlər bazası: SQL Server, MongoDB',
+    skillsTools: 'Alətlər: Git, GitHub, Netlify, Postman',
+    experienceTitle: 'İş təcrübəsi',
+    contactTitle: 'Əlaqə',
+    contactBody:
+      'Full stack veb layihələri, əməkdaşlıq və ya işimlə bağlı suallar üçün mənə yazın.',
+    copy: 'Kopyala',
+    copied: 'Kopyalandı!',
+    open: 'Aç',
+    projectsTitle: 'Layihələr',
+    projectsBlurb:
+      'Xərc izləmə, startap platformaları və autentifikasiya, API, data yönümlü dashboard işləri.',
+    live: 'Canlı',
+    code: 'Kod',
+    openDetails: 'Detallara bax',
+    projectsCountLabel: 'layihə',
+    footerLinks: { github: 'GitHub', linkedin: 'LinkedIn', contact: 'Əlaqə' },
+  },
+  ru: {
+    languageLabel: 'Русский',
+    nav: { home: 'Главная', about: 'Обо мне', projects: 'Проекты', contact: 'Контакты' },
+    ctaViewProjects: 'Смотреть проекты',
+    ctaContact: 'Связаться',
+    heroBadge: 'Azerbaijan State University of Oil and Industry — Information Technology',
+    heroTitle: 'Piriyev Tural — Full Stack Web Developer',
+    heroPitch:
+      'Создаю реальные приложения на современном фронтенде и бэкенде, уделяя внимание чистому UI/UX, производительности и поддерживаемому коду.',
+    heroBullets: [
+      'Доставляю full stack функционал с React, Tailwind CSS, Node.js, Express, SQL Server и MongoDB.',
+      'В стартап-проектах строил аутентификацию, дашборды, API и логику баз данных.',
+      'Инструктор по ИТ в TrainBrain: обучал ИТ и программированию разные возрастные группы интерактивными методами.',
+    ],
+    aboutTitle: 'Обо мне',
+    aboutP1:
+      'Я Full Stack Web Developer, фокусируюсь на современных технологиях и чистых, масштабируемых архитектурах. Есть опыт реальных проектов на фронтенде и бэкенде.',
+    aboutP2:
+      'Помимо обучения в области ИТ, работал над личными и стартап-проектами. Ценю чистый UI/UX, производительность и поддержку кода, опираюсь на сильную базу ООП и практикую принципы SOLID, постоянно развиваюсь через практику. В новых проектах создаю основанные на ООП веб и десктоп приложения с аккуратной архитектурой.',
+    skillsLabel: 'Навыки',
+    skillsFrontend: 'Фронтенд: HTML, CSS, JavaScript, React, Tailwind CSS',
+    skillsBackend: 'Бэкенд: PHP, C# (.NET), Node.js, Express.js',
+    skillsDb: 'Базы данных: SQL Server, MongoDB',
+    skillsTools: 'Инструменты: Git, GitHub, Netlify, Postman',
+    experienceTitle: 'Опыт работы',
+    contactTitle: 'Контакты',
+    contactBody:
+      'Пишите по проектам full stack, сотрудничеству или вопросам по моей работе с React, Node.js, Express и базами данных.',
+    copy: 'Копировать',
+    copied: 'Скопировано!',
+    open: 'Открыть',
+    projectsTitle: 'Проекты',
+    projectsBlurb:
+      'Учёт расходов, стартап-платформы и дашборды с аутентификацией, API и данными.',
+    live: 'Демо',
+    code: 'Код',
+    openDetails: 'Подробнее',
+    projectsCountLabel: 'проекта',
+    footerLinks: { github: 'GitHub', linkedin: 'LinkedIn', contact: 'Контакты' },
+  },
+}
