@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Tural Piriyev logo">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00b6ff" />
+      <stop offset="100%" stop-color="#007acb" />
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="256" fill="url(#g)" />
+  <path fill="#ffffff" d="M136 146h240v86h-80v235h-80V232h-80z" />
+  <path fill="#000000" opacity="0.12" d="M376 145.5L376 145.5 376 146 296 232v235h80V232l80-80c0-0.16 0-0.32 0-0.5 0-16.03-12.97-29-29-29h-51z" />
+</svg>
