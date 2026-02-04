@@ -19,7 +19,7 @@ const contacts = [
   },
   {
     label: 'Email',
-    value: 'turalpiriyev00@gmail.com',
+    value: 'piriyevtural00@gmail.com',
     href: 'mailto:turalpiriyev00@gmail.com',
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
